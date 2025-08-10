@@ -1,6 +1,6 @@
 # <Problem #1> <Two Sum>  (<Easy>)
-Link: <https://leetcode.com/problems/two-sum/>
-Status: ☐ Unsolved v Solved (self) ☐ Solved (after hint)  
+Link: <https://leetcode.com/problems/two-sum/description/>
+Status: ☐ Unsolved ✅ Solved (self) ☐ Solved (after hint)  
 Last reviewed: 2025-08-03 | Next: D+3
 
 ## 0) One-liner

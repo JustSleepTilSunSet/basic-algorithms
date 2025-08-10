@@ -1,3 +1,7 @@
+"""
+The solution failed in special case.
+total of the "duh" is 33 that equals "ill".
+"""
 class Solution(object):
     def groupAnagrams(self, strs):
         """

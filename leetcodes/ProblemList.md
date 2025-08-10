@@ -2,7 +2,7 @@
 
 ## 1. Array / Hash Table
 - [x] Two Sum  
-- [ ] Group Anagrams  
+- [x] Group Anagrams  
 - [ ] Contains Duplicate  
 - [ ] Product of Array Except Self  
 - [ ] Maximum Subarray  
